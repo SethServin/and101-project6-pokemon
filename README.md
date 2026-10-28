@@ -23,12 +23,9 @@ The following REQUIRED features are completed:
 The following STRETCH features are implemented:
 
 - [x] Add a UI element for the user to interact with API further (Search Bar)
-- [x] Show a `Toast` when an item is clicked
-- [x] Add item dividers with `DividerItemDecoration`
+  
+  The following EXTRA features are implemented:
 
-The following EXTRA features are implemented:
-
-- [x] Display Pokémon images using Glide
 - [x] Display Pokémon IDs and Types in addition to Names
 
 -Video Demo-
