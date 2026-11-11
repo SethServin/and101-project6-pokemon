@@ -2,6 +2,9 @@
 <resources>
 
     <style name="Theme.RecyclerAPIproject6"
-        parent="Theme.AppCompat.Light.DarkActionBar" />
+        parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#CC0000</item>
+        <item name="colorAccent">#FFCB05</item>
+    </style>
 
 </resources>

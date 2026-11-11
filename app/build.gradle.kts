@@ -36,6 +36,10 @@ android {
 }
 
 dependencies {
+    dependencies {
+        implementation("androidx.core:core-ktx:...")
+        implementation("androidx.appcompat:appcompat:...")
+    }
     implementation("androidx.appcompat:appcompat:1.7.0")
 
 

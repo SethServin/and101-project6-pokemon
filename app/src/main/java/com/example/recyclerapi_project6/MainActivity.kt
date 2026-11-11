@@ -42,7 +42,7 @@ class MainActivity : AppCompatActivity() {
         val client = AsyncHttpClient()
 
         client.get(
-            "https://pokeapi.co/api/v2/pokemon?limit=300",
+            "https://pokeapi.co/api/v2/pokemon?limit=151",
             object : JsonHttpResponseHandler() {
 
                 override fun onSuccess(
